@@ -9,6 +9,7 @@ e2e-tests for [freeletics](https://github.com/JohnSQA/tests) \
 `gradle android`
 
 Answers to the questions:
+
 1.Locators(page objects if they exist)
 2.Using ADB
 
