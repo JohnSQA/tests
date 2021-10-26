@@ -20,5 +20,5 @@ So changes could vary based on changes done.`
 
 `4. Native app would require activity/capability in order to run tests.`
 
-`Java 8 is used here. All the dependencies should be automatically installed if Import dependency feature in ON your IDE( I used intellij idea for it).
+`Java 8 is used here. All the dependencies should be automatically installed if Import dependency feature is ON in your IDE( I used intellij idea for it).
 Once you open the project in your IDE, you can right click and run "FreeleticsTests", at least it is done like this in intellij idea.`
